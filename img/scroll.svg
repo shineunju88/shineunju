@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="79" viewBox="0 0 50 79">
+  <g id="그룹_175" data-name="그룹 175" transform="translate(-935 -763)">
+    <g id="그룹_165" data-name="그룹 165">
+      <rect id="사각형_100" data-name="사각형 100" width="50" height="79" rx="20" transform="translate(935 763)" fill="#fff" opacity="0.3"/>
+      <g id="사각형_105" data-name="사각형 105" transform="translate(935 763)" fill="none" stroke="#fff" stroke-width="4">
+        <rect width="50" height="79" rx="20" stroke="none"/>
+        <rect x="2" y="2" width="46" height="75" rx="18" fill="none"/>
+      </g>
+    </g>
+    <g id="그룹_128" data-name="그룹 128" transform="translate(0 116.5)">
+      <line id="선_29" data-name="선 29" y2="22.647" transform="translate(960 688.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+      <line id="선_30" data-name="선 30" y2="22.647" transform="translate(960 660.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4" stroke-dasharray="7"/>
+      <g id="그룹_127" data-name="그룹 127" transform="translate(-52.5 7.647)">
+        <line id="선_28" data-name="선 28" x2="10" y2="10" transform="translate(1002.5 693.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+        <line id="선_29-2" data-name="선 29" x1="10" y2="10" transform="translate(1012.5 693.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

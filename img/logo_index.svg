@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="199.998" viewBox="0 0 200 199.998">
+  <g id="logo_index" transform="translate(-860 -245)">
+    <g id="그룹_166" data-name="그룹 166">
+      <ellipse id="타원_3" data-name="타원 3" cx="100" cy="99.999" rx="100" ry="99.999" transform="translate(860 245)" fill="#fff" opacity="0.6"/>
+      <g id="타원_5" data-name="타원 5" transform="translate(860 245)" fill="none" stroke="#fff" stroke-width="4">
+        <ellipse cx="100" cy="99.999" rx="100" ry="99.999" stroke="none"/>
+        <ellipse cx="100" cy="99.999" rx="98" ry="97.999" fill="none"/>
+      </g>
+    </g>
+    <g id="그룹_58" data-name="그룹 58" transform="translate(910 298)">
+      <path id="패스_1" data-name="패스 1" d="M548.6,457.732l8.515,4.776,7.943-12.515,7.609,13.445,9.035-4.464L565.73,430.324Z" transform="translate(-548.602 -428.583)" fill="#1a1818"/>
+      <path id="패스_2" data-name="패스 2" d="M600.849,491.26V473.107H587.778V503.4h27.075V491.26Z" transform="translate(-531.335 -409.728)" fill="#a2a5aa" opacity="0.4"/>
+      <rect id="사각형_1" data-name="사각형 1" width="15.664" height="54.389" transform="translate(39.482 0)" fill="#a2a5aa" opacity="0.4"/>
+      <rect id="사각형_2" data-name="사각형 2" width="27.087" height="11.514" transform="translate(71.208 43.567)" fill="#a2a5aa" opacity="0.4"/>
+      <path id="패스_3" data-name="패스 3" d="M612.091,461.988a15.227,15.227,0,1,0-10.788-4.459,14.7,14.7,0,0,0,10.788,4.459m-3.734-18.983a5.1,5.1,0,0,1,3.734-1.556,5.221,5.221,0,0,1,3.838,1.556,5.261,5.261,0,0,1,0,7.47,5.215,5.215,0,0,1-3.838,1.556,5.282,5.282,0,0,1-3.734-9.026" transform="translate(-527.34 -428.068)" fill="#1a1818"/>
+      <path id="패스_4" data-name="패스 4" d="M548.6,502.964V471.741h10.27v10.727l15.1-10.8,6.272,8.781-10.058,7.362,10.558,8.636-6.426,7.755L558.872,491.76v11.2Z" transform="translate(-548.602 -410.36)" fill="#1a1818"/>
+    </g>
+  </g>
+</svg>

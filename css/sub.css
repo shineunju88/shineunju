@@ -1,0 +1,148 @@
+body {
+    background: #F5F5F5;
+}
+#header {
+    width: 100%;
+    height: 10rem;
+    border-bottom: 0.1rem solid #D4D6D9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F8F8F8;
+}
+
+#header > .group {
+    width: 100rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header > .group > .company {
+    margin-top: 13.25rem;
+
+}
+
+#header > .group > .company > .btn {
+    border: 0.1rem solid #D4D6D9;
+    background-color: #F5F5F5;
+    width: 19.4rem;
+    height: 26.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#header > .group > .company > .btn > .logo {
+    width: 9.537rem;
+    height: 2.333rem;
+    background: url(../img/paminc.svg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#header > .group > .company > .btn > hr {
+    border: 0;
+    border-bottom: 0.1rem solid #A2A5AA;
+    width: 10rem;
+    margin-bottom: 5.6rem;
+    margin-top: 4.3rem;
+}
+
+#header > .group > .company > .btn > .period {
+    font-size: 2rem;
+    color: #424242;
+    font-family: noto sans;
+    font-weight: 300;
+}
+
+#header > .group > .title {
+    font-family: noto sans;
+    font-size: 4rem;
+    font-weight: 300;
+    color: #424242;
+}
+
+#header > .group > .close {
+    width: 3rem;
+    height: 3rem;
+    background: url(../img/close.svg);
+}
+
+#content {
+    width: 100%;
+    background: #F5F5F5;
+    border-bottom: 0.1rem solid #D4D6D9;
+    padding: 3rem 0 5rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+#content > .group {
+    width: 100rem;
+}
+
+#content > .group > p {
+    font-size: 1.6rem;
+    font-weight: 100;
+    line-height: 3.2rem;
+    color: #424242;
+    margin-left: 22.6rem;
+}
+
+#content > .group > .con {
+    width: 100%;
+    height: auto;
+    min-height: 10rem;
+    background: #fff;
+    margin-top: 5.2rem;
+    margin-bottom: 1.5rem;
+}
+
+#content > .group > .paging {
+    display: flex;
+    justify-content: center;
+}
+
+#content > .group > .paging > .btn {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #424242;
+    padding: 1rem 2rem;
+    border: 0.1rem solid #D4D6D9;
+    border-radius: 0.5rem;
+    border-bottom: 0.2rem solid #D4D6D9;
+    background: #fff;
+    display: flex;
+    align-items: center;
+}
+
+#content > .group > .paging > .Prev > #prev {
+    display: inline-block;
+    width: 0.725rem;
+    height: 1.352rem;
+    background: url(../img/prev.svg);
+    margin-right: 0.5rem;
+}
+
+#content > .group > .paging > .list {
+    margin: 0 2rem;
+}
+
+#content > .group > .paging > .next > #next {
+    display: inline-block;
+    width: 0.725rem;
+    height: 1.352rem;
+    background: url(../img/next.svg);
+    margin-left: 0.5rem;
+}
+
+#content > .group > .paging .icon-wr {
+    color: #A2A5AA;
+    margin: 0 1rem;
+    padding-bottom: 0.5rem;
+    border-right: 0.1rem solid #A2A5AA;
+    display: inline-block;
+    height: 2rem;
+}

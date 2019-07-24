@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="319" height="319" viewBox="0 0 319 319">
+  <defs>
+    <filter id="패스_9" x="128" y="110" width="60.947" height="61.947" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="페이지_이동" x="111" y="181" width="97" height="30" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_113" data-name="그룹 113" transform="translate(-8369 -2583)">
+    <rect id="사각형_97" data-name="사각형 97" width="319" height="319" transform="translate(8369 2583)" fill="none" opacity="0.8"/>
+    <g id="사각형_98" data-name="사각형 98" transform="translate(8369 2583)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="319" height="319" stroke="none"/>
+      <rect x="0.5" y="0.5" width="318" height="318" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 8369, 2583)" filter="url(#패스_9)">
+      <path id="패스_9-2" data-name="패스 9" d="M43.1,18.854H10.235L25.319,3.771,21.548,0,0,21.548,21.548,43.1l3.771-3.771L10.235,24.241H43.1Z" transform="translate(188.95 140.47) rotate(135)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 8369, 2583)" filter="url(#페이지_이동)">
+      <text id="페이지_이동-2" data-name="페이지 이동" transform="translate(111 204)" fill="#fff" font-size="20" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR"><tspan x="0" y="0">페이지 이동</tspan></text>
+    </g>
+  </g>
+</svg>
