@@ -10,9 +10,10 @@
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="shortcut icon" href="img/logo.ico" />
-    <script src="https://www.w3schools.com/lib/w3.js"></script>
+    <script type="text/javascript" src="js/include.js"></script>
 </head>
 
+    
 <body>
     <div id="index">
         <div class="group">
@@ -53,13 +54,7 @@
                         Mobile, Web에선 디자인 및 퍼블리,<br />
                         PPT에선 영업팀과 협업하여 작업하였습니다.</div>
                 </div>
-                <div class="company">
-                    <a class="btn" href="http://paminc.co.kr" target="_blank">
-                        <div class="logo"><span class="blind">PAM</span></div>
-                        <hr />
-                        <div class="period">2017.3~2019.6</div>
-                    </a>
-                </div>
+                <div class="company" w3-include-html="sub/paminc.html"></div>
             </div>
             <div class="row2">
                 <div class="group">
@@ -93,13 +88,7 @@
     <div id="softapp">
         <div class="group">
             <div class="row1">
-                <div class="company">
-                    <a class="btn" href="http://softapp.co.kr" target="_blank">
-                        <div class="logo"><span class="blind">soft app</span></div>
-                        <hr />
-                        <div class="period">2013.7~2014.8</div>
-                    </a>
-                </div>
+                <div class="company" w3-include-html="sub/softapp.html"></div>
                 <div class="info">
                     <div>SOFT APP</div>
                     <div>개인 및 기업 클라이언트의 의뢰를 작업한 유형이 많아 BI디자인 작업부터<br />
@@ -193,13 +182,7 @@
                         <p>190<span>건</span>x18<span>개월</span><span>=</span>3,420<span>건</span></p>
                     </div>
                 </div>
-                <div class="company">
-                    <a class="btn" href="https://www.iacts.co.kr" target="_blank">
-                        <div class="logo"><span class="blind">iacts</span></div>
-                        <hr />
-                        <div class="period">2014.9~2017.2</div>
-                    </a>
-                </div>
+                <div class="company" w3-include-html="sub/iacts.html"></div>
             </div>
             <div class="row2">
                 <a class="btn"><span class="blind">김해</span></a>
@@ -224,7 +207,6 @@
     <div w3-include-html="sub/footer.html"></div>
 </body>
 <script>
-    w3.includeHTML();
+    includeHTML();
 </script>
-<script type="text/javascript" src="https://www.w3schools.com/lib/w3.js"></script>
 </html>
