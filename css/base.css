@@ -62,6 +62,10 @@ samp {
     html,body {font-size: 5px;}
 } 
 
+body {
+    min-width: 100rem;
+}
+
 .blind {
     position: absolute;
     left: -9999px;
