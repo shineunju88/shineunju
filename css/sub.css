@@ -65,9 +65,10 @@ body {
 }
 
 #header > .group > .close {
-    width: 3rem;
+    width: 13.25rem;
     height: 3rem;
-    background: url(../img/close.svg);
+    background: url(../img/close.svg) no-repeat;
+    background-position: right;
 }
 
 #content {
@@ -118,6 +119,9 @@ body {
     align-items: center;
 }
 
+#content > .group > .paging > .Prev {
+    margin-right: 2rem;
+}
 #content > .group > .paging > .Prev > #prev {
     display: inline-block;
     width: 0.725rem;
@@ -126,9 +130,11 @@ body {
     margin-right: 0.5rem;
 }
 
+/*
 #content > .group > .paging > .list {
     margin: 0 2rem;
 }
+*/
 
 #content > .group > .paging > .next > #next {
     display: inline-block;
