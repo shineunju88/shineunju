@@ -57,6 +57,11 @@ samp {
     font-size: 10px;
 }
 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    font-size: 3px;
+} 
+
 .blind {
     position: absolute;
     left: -9999px;
